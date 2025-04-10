@@ -1,1 +1,1 @@
-# Exerc-cios-Entra-21-2025
+# Exercicios-Entra-21-2025
