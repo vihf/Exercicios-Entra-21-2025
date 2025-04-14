@@ -2,7 +2,7 @@
 Resolução dos exercícios sobre Fundamentos de Programação com JAVA
 1. Contagem de 1 a 10 >> Imprima os números de 1 a 10 usando um for. Exemplo: 1 2 3 4 5 6 7 8 9 10
 
-2 . Soma de 1 a N >> Leia um número N e calcule a soma de 1 até N usando um for. Exemplo: N = 5 → 1+2+3+4+5 = 15
+2. Soma de 1 a N >> Leia um número N e calcule a soma de 1 até N usando um for. Exemplo: N = 5 → 1+2+3+4+5 = 15
 
 3. Tabuada de um número >> Peça um número e exiba a tabuada de 1 a 10 usando for. Exemplo: 5 × 1 = 5 ... 5 × 10 = 50
 
